@@ -1,4 +1,4 @@
-#For all n terms
+#For all The n terms
 import heapq
 
 def kth_largest(arr, k):
